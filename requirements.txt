@@ -1,1 +1,1 @@
-pip install azureml
+!pip install azureml
